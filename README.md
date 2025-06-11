@@ -1,33 +1,24 @@
-# 👨‍🚀 Olá, mundo! Sou um Explorador de Dados 🚀
+# 👋 Olá, mundo! Bem-vindo ao meu perfil
 
-<img src="https://cdn.pixabay.com/photo/2017/06/23/22/04/artificial-intelligence-2433961_1280.jpg" width="100%" alt="Futuristic Robot" />
+Sou um estudante de **Ciência de Dados**, atualmente com 21 anos, em formação e explorando o universo da análise e modelagem de dados.
 
-## 👾 Sobre mim
+## 🧠 Tecnologias em aprendizado
 
-Olá! Me chamo **Moisés**, tenho 21 anos e sou um cientista de dados que acredita que o **futuro é moldado por dados** — e talvez por alguns robôs também. 🤖
+- **Python** 
+- **Matplotlib** 
+- **R** 
+- **SQL** 
+- **Firebase** 
 
-Estou nessa jornada para entender o mundo com algoritmos, estatísticas, gráficos incríveis e algumas queries bem espertas.
+## 📁 Repositórios
 
----
+Aqui você vai encontrar meus estudos, projetos práticos e anotações conforme avanço no aprendizado dessas tecnologias.
 
-## 🚧 Em construção...
+## 🔗 Contato
 
-Atualmente estou aprendendo e construindo projetos com as seguintes tecnologias:
-
-- 🐍 **Python**: Minha linguagem favorita (por enquanto).
-- 📊 **Matplotlib**: Porque dados merecem ser bonitos.
-- 📈 **R**: Estatística hardcore.
-- 🧠 **SQL**: Consultando o universo em forma de tabelas.
-- 🔥 **Firebase**: Backend moderno para apps e análise de dados em tempo real.
-  
----
-
-## 📫 Contato
-
-Vamos conversar? Me chama pra trocar uma ideia sobre dados, robôs ou sci-fi!  
-📧 brgmoises31@email.com  
+- Email: brgmoises31@gmail.com    
+- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/mois%C3%A9s-braga-3128b2335/)
 
 ---
 
-> *"A ciência de dados é como uma nave: poderosa, mas exige direção."* 🚀
-
+![robot](https://cdn.pixabay.com/photo/2017/06/23/22/04/artificial-intelligence-2433961_1280.jpg)
