@@ -4,10 +4,9 @@ Sou um estudante de **Ciência de Dados**, atualmente com 21 anos, em formação
 
 ## 🧠 Tecnologias em aprendizado
 
-- **Python** 
+- **Python**                                                                                                                          ![robot](https://i.pinimg.com/originals/9d/20/81/9d2081e7da1b4bf1ddb3adfe58f2ee03.gif)
 - **Matplotlib** 
-- **R**                                                      ![robot](https://i.pinimg.com/originals/9d/20/81/9d2081e7da1b4bf1ddb3adfe58f2ee03.gif)
-
+- **R**                                                  
 - **SQL** 
 - **Firebase** 
 
