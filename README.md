@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍🚀 Olá, mundo! Sou um Explorador de Dados 🚀
 
-<!--
-**brgmoises/brgmoises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.pixabay.com/photo/2017/06/23/22/04/artificial-intelligence-2433961_1280.jpg" width="100%" alt="Futuristic Robot" />
 
-Here are some ideas to get you started:
+## 👾 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Me chamo **Moisés**, tenho 21 anos e sou um cientista de dados que acredita que o **futuro é moldado por dados** — e talvez por alguns robôs também. 🤖
+
+Estou nessa jornada para entender o mundo com algoritmos, estatísticas, gráficos incríveis e algumas queries bem espertas.
+
+---
+
+## 🚧 Em construção...
+
+Atualmente estou aprendendo e construindo projetos com as seguintes tecnologias:
+
+- 🐍 **Python**: Minha linguagem favorita (por enquanto).
+- 📊 **Matplotlib**: Porque dados merecem ser bonitos.
+- 📈 **R**: Estatística hardcore.
+- 🧠 **SQL**: Consultando o universo em forma de tabelas.
+- 🔥 **Firebase**: Backend moderno para apps e análise de dados em tempo real.
+  
+---
+
+## 📫 Contato
+
+Vamos conversar? Me chama pra trocar uma ideia sobre dados, robôs ou sci-fi!  
+📧 brgmoises31@email.com  
+
+---
+
+> *"A ciência de dados é como uma nave: poderosa, mas exige direção."* 🚀
+
