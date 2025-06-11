@@ -21,4 +21,4 @@ Aqui você vai encontrar meus estudos, projetos práticos e anotações conforme
 
 ---
 
-![robot](https://cdn.pixabay.com/photo/2017/06/23/22/04/artificial-intelligence-2433961_1280.jpg)
+![robot](https://i.pinimg.com/originals/9d/20/81/9d2081e7da1b4bf1ddb3adfe58f2ee03.gif)
