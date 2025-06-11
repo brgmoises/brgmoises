@@ -19,6 +19,6 @@ Aqui você vai encontrar meus estudos, projetos práticos e anotações conforme
 ## 🔗 Contato
 
 - Email: brgmoises31@gmail.com    
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/mois%C3%A9s-braga-3128b2335/)
+- LinkedIn: [meu-linkedin](https://www.linkedin.com/in/mois%C3%A9s-braga-3128b2335/)
 
 ---
