@@ -6,7 +6,8 @@ Sou um estudante de **Ciência de Dados**, atualmente com 21 anos, em formação
 
 - **Python** 
 - **Matplotlib** 
-- **R** 
+- **R**                                                      ![robot](https://i.pinimg.com/originals/9d/20/81/9d2081e7da1b4bf1ddb3adfe58f2ee03.gif)
+
 - **SQL** 
 - **Firebase** 
 
@@ -20,5 +21,3 @@ Aqui você vai encontrar meus estudos, projetos práticos e anotações conforme
 - LinkedIn: [seu-linkedin](https://www.linkedin.com/in/mois%C3%A9s-braga-3128b2335/)
 
 ---
-
-![robot](https://i.pinimg.com/originals/9d/20/81/9d2081e7da1b4bf1ddb3adfe58f2ee03.gif)
